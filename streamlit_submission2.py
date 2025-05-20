@@ -26,7 +26,7 @@ def predict(input_data):
 
 # ---------------------------------------Main Page-----------------------------------------------
 # Head
-st.title("Prediksi Status Siswa")
+st.title("Prediksi Status Kelulusan Mahasiswa")
 st.write("Masukkan data siswa untuk memprediksi status kelulusan.")
 
 
@@ -369,4 +369,4 @@ with st.form("data_form"):
 
     prediction = predict(input_data)
     if prediction:
-      st.subheader(f"Hasil Prediksi:{prediction}")
+      st.subheader(f"Hasil Prediksi: {prediction}")
