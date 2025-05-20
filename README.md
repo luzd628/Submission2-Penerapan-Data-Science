@@ -48,7 +48,7 @@ notebook.ipynb
 
 - kemudian jalankan  file yang bernama
 ```
-streamlit.py  
+streamlit_submission2.py  
 ```
 Maka akan otomatis dialihkan sebuah halaman website yang berisi form yang perlu diisikan untuk menghasilkan prediksi mahasiswa tersebut lulus/dropout.  
 
