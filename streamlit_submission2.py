@@ -27,7 +27,7 @@ def predict(input_data):
 # ---------------------------------------Main Page-----------------------------------------------
 # Head
 st.title("Prediksi Status Kelulusan Mahasiswa")
-st.write("Masukkan data siswa untuk memprediksi status kelulusan.")
+st.write("Masukkan data mahasiswa untuk memprediksi status kelulusan.")
 
 
 # Form Input
