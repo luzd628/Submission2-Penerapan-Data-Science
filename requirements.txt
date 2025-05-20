@@ -1,0 +1,8 @@
+streamlit
+pandas
+pickle-mixin
+numpy
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
