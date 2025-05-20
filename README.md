@@ -53,7 +53,7 @@ streamlit.py
 Maka akan otomatis dialihkan sebuah halaman website yang berisi form yang perlu diisikan untuk menghasilkan prediksi mahasiswa tersebut lulus/dropout.  
 
 Berikut merupakan link dari sistem yang sudah di deploy:  
-https://submission2-dzul.streamlit.app/  
+[URL DEPLOYMENT STREAMLIT](https://dzulfikrisubmission2.streamlit.app/)
 
 
 ## Conclusion
